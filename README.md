@@ -28,12 +28,17 @@ Install
 
 *Fantastic Coming Soon* has been developed to be installed as fast as possible. Everything is in the configuration file, even the colors of the page.
 
-1- Edit *php/config.php*.
-2- Create a mySQL database with the params you set in the config
-3- Edit the languages files you will use in the *languages/* directory, this also includes SEO site info.
-4- Add your image, you can replace logo.png.
-5- Add your favicon.ico
-6- Upload
+1 - Edit *php/config.php*.
+
+2 - Create a mySQL database with the params you set in the config
+
+3 - Edit the languages files you will use in the *languages/* directory, this also includes SEO site info.
+
+4 - Add your image, you can replace logo.png.
+
+5 - Add your favicon.ico
+
+6 - Upload
 
 For multilingual websites : copy the files to the folder of your choice to create the new language page, edit the language section in *php/config.php* in each installs to add all the languages and urls.
 
