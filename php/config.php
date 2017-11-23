@@ -119,7 +119,6 @@ $conf['multilingual'] = FALSE; // Use TRUE to activate the multiligual functiona
 // adress of the pages for all the available languages
 $language = array (
 	'en' => 'http://localhost', // repeat for all the needed languages
-	'fr' => 'http://localhost/fr/',
 );
 
 

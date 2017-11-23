@@ -7,25 +7,25 @@
  */
 
 // Website title, this text appear in the HTML header, it is used by search engine, 65 characters maximum
-$lang['seo_title'] = "Coming Soon Example"; // Where %s add automatically the name of your website
+$lang['seo_title'] = "Coming Soon Page"; // Where %s add automatically the name of your website
 
 // Website description, this text appear in the HTML header, it is used by search engine, 156 characters maximum
-$lang['seo_description'] = "Coming Soon Example"; // Where %s add automatically the name of your website
+$lang['seo_description'] = "Coming Soon Page"; // Where %s add automatically the name of your website
 
 // Website description, this text appear in the HTML header, it is used by search engines, 156 characters maximum
-$lang['website_description_header'] = 'Coming Soon Example';
+$lang['website_description_header'] = 'Coming Soon Page';
 
 // Homepage H1 title
-$lang['title_h1'] = 'Coming Soon Example Site';
+$lang['title_h1'] = 'Coming Soon Page';
 
 // Homepage text under the title
-$lang['content_homepage_1st_paragraph'] = 'Coming soon Page Re-designed by MSFTserver<br />Check out the subscriber list by loging into <a href ="http://soon.msft.online/admin/">/admin</a> with user & password of soonexample';
+$lang['content_homepage_1st_paragraph'] = 'Coming soon Page Re-designed by MSFTserver';
 
 // Homepage text for the progression bar
-$lang['content_homepage_progess_bar'] = 'Current status : lets give this example a try shall we!';
+$lang['content_homepage_progess_bar'] = 'Current status : working on awesome new layout!';
 
 // Homepage text for the newsletter
-$lang['content_homepage_newsletter'] = 'Sign up now to our newsletter and you can see the example of the process';
+$lang['content_homepage_newsletter'] = 'Sign up now to our newsletter and be the first to know when the site is ready!';
 
 // About page title
 $lang['about_title'] = 'About MSFTserver\'s Example Page';
